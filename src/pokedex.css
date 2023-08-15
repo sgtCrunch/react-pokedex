@@ -1,0 +1,11 @@
+.pokemon-area {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: gray;
+    text-align: center;
+    justify-content: center;
+}
+
+h4 {
+    width: 100%;
+}

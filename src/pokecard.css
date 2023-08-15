@@ -1,0 +1,13 @@
+.pokecard {
+    background-color: rgba(60, 60, 60, 0.318);
+    border-radius: 10px;
+    text-align: center;
+    width: 25%;
+    margin: 20px;
+}
+
+.pokecard-name {
+    color: rgb(132, 132, 255);
+    font-size: large;
+    font-weight: bold;
+}
